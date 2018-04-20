@@ -1,0 +1,164 @@
+Parts of speech
+	Noun
+		Abstract or Concrete
+		Proper or Common
+		Singular or Plural
+		Collective - refers to a group
+		
+		
+	Pronoun
+		-Personal
+						Person
+			Subjective	1st		I, we
+						2nd		you
+						3rd		he, she, it, they
+			Objective	1st		me, us
+						2nd		you
+						3rd		him, her, it, them
+		-Indefinite
+			Singular
+				anyone		anybody		anything	either		each
+				no one		nobody 		nothing		another		one
+				someone		somebody	something				any
+				everyone	everybody	everything
+			Plural
+				both		few			many		several
+			Singular or Plural
+				most	any		all		none	some	neither
+		-Possessive
+			my		our		your	his		her		its		their	whose
+			mine	ours	yours	his 	hers			others	
+		-Reflexive
+			myself, ourselves
+			yourself, yourselves
+			himself, herself, itself, themselves
+		-Relative
+			begins a clause that refers to a noun in a sentence
+			Subject Pronouns:	that	who		whoever		whose
+			Object Pronouns:	which	whom	whomever	what
+			
+			who vs whom
+				change question to a statement
+				in place of who/whom, substitute he and him
+				he - who	him - whom
+		-Demonstrative
+			this	these
+			that	those
+			
+			
+	Verb
+		past, present, participle
+			all participle forms require a helping verb
+		-Action Verbs
+		-Linking Verbs
+						1st(I/we)	2nd(you)	3rd(sh, he, it, they)
+			present		am/are		are			is/are
+			past		was/were	were		was/were
+			participle	been		been		been
+			
+			sense words: appear, seem, look, feel, smell, taste, sound
+				about the same meaning as 'is'
+			also: become, remain, grow
+		-Helping Verbs
+			different forms of have, has, had
+			otherwise, participle forms of verbs become adjectives
+			-ing verbs require 'to be' helpers
+				otherwise it can be a noun
+			add emphasis with do, does, did
+				'do' and 'does' change form to match the subject
+			will and shall
+			modal helpers
+				would, could, should, can, may, might, must, supposed to, ought to, used to, and have to
+				never change form
+				will and shall are also technically modals
+				past habit:	"used to eat" or "would <never> eat"
+				requests:	"would like" or "could <you> clean" or "can <you> do"
+				permission:	"can go" or "may change" or "could leave"
+				necessity:	"must see" or "ought to go" or "will have to call"
+				possibility:"might pay" or "may write" or "could be"
+				
+				
+	Adjective
+		Descriptive Adjectives
+		Articles
+			the, an, a
+		Demonstrative Adjectives
+			this, these, that, those
+		Possessive Adjectives
+			my, our, your, his, her, its, their
+		Indefinite Adjectives
+			some, many, any, few, several, all
+			can also be used as pronouns
+		Questioning Adjectives
+			which and what
+		Order and punctuation
+			Coordinate Adjectives can be rearranged without changing the meaning and are separated by commas
+			Cumulative Adjectives can not be rearranged freely and are not separated by commas
+			Order: determiner(a, an, the), OPINION, SIZE, AGE, SHAPE, COLOR, ORIGIN, MATERIAL, PURPOSE
+			
+			
+	Adverb
+		can modify a verb
+			quickly, happily
+			first, then,
+			often, sometimes, never
+		can modify an adjective, by adding degree or intensity
+			almost, exceptionally, very, so, extremely
+			often, sometimes, never
+		can modify another adverb, clarifies degree or intensity
+			somewhat, very, never
+		
+		Conjunctive Adverbs
+			join and create transitions between ICs
+			may begin a sentence and often followed by a comma
+			
+			accordingly, finally, likewise, similarly, also, furthermore, meanwhile, specifically, anyway, hence, moreover,
+			still, besides, however, nevertheless, subsequently, certainly, incidentally, next, then, consequently, indeed,
+			nonetheless, therefore, conversely, instead, otherwise, thus
+		
+		Adverb Prepositional Phrase
+			subject verb "under my desk"
+		Adverb Infinitive Phrase
+			"To prevent the theft of your food," verb
+		Adverb Independent Clause
+			verb "before the storm arrived"
+			
+			
+	Preposition
+		in, on, of, unlike, according to, etc
+		Prepositional Phrase: [preposition] [noun/pronoun: "Object of the Preposition"]
+			Can have stuff in between
+			
+		about, below, inside, throughout, above, beneath, into, to, across, beside, like, toward, after, between, near, under,
+		against, beyond, of, underneath, along, by, off, unlike, among, down, on, until, around, during, out, up, as, except,
+		outside, upon, at, for, over, with, before, from, past, within, behind, in, through, without
+		
+		'No-Subject-Rule'
+			The subject can not be in a prepositional phrase
+		Must be in a prepositional phrase, otherwise could be an adverb
+			
+			
+	Conjunction
+		Coordinating Conjunctions: for, and, nor, but, or, yet, so
+			link equal statements
+				____ <and> ____ are ...
+		Correlative Conjunctions connect words, phrases, or clauses of equal grammatical value. Grammatical structure following each half has to be the same
+			as... as
+			both... and
+			not only... but also
+			either... or
+			neither... nor
+			whether... or
+		Subordinating Conjunction to connect a subordinate clause to an independent clause
+			after, even, though, than, whenever, although, if, that, where, as, in order that, though, whereas, as if,
+			rather than, unless, wherever, because, since, until, whether, before, so that, when, while
+		Conjunctive Adverbs
+			at beginning or in the middle of a sentence, usually set off by commas
+			when introducing a second clause within a sentence, preceded by a semicolon
+			however, therefore, moreover, nevertheless
+	
+		
+	Interjection
+		Usually stand alone
+		often punctuated by an exclamation point
+		sometimes mild interjections are included within a sentence and often set off by commas

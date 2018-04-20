@@ -1,0 +1,188 @@
+Parts of a sentence:
+	Subject
+		simple subject usually contains a noun or pronoun
+		can contain modifying words, phrases, or clauses
+	Predicate
+		action or being
+		simple predicate contains the verb
+		can also contain modifying words, phrases, or clauses
+	Direct Object
+		receives the action of the sentence
+		usually a noun or pronoun
+	Indirect Object
+		to whom or for whom the action is being done
+		usually a common noun or pronoun
+	Subject Complement
+		renames or describes the subject
+		usually a noun, pronoun, or adjective
+		occur when there is a linking verb within the sentence
+
+
+Sentence Fragment
+	missing subject
+	missing verb
+	unfinished thought
+	Certain words automatically make a clause incomplete:
+		since, while, when, unless, although
+		
+		
+Run-on Sentences and comma splices
+	no punctuation or coordinating conjunction between two independent clauses
+	comma splice is when only a comma is added between to ICs
+	a sentence can be complete with just <Subject> <Predicate>: "I am.", "He runs.", "The chicken walks."
+		both the subject and verb can be modified
+		the subject can include multiple nouns: "The man and his wife"
+	four ways to separate two independent clauses
+		1. add a period
+		2. a comma and a coordinating conjunction
+		3. a semicolon
+		4. add a subordinating conjunction between the clauses
+	An Independent Clause contains one subject/predicate pair and expresses a complete thought
+	A simple sentence is made up of only one IC
+	A run on sentence is made up of two or more ICs not joined correctly
+	A comma splice is an incorrect use of a comma to join two ICs
+	A compound sentence contains two or more ICs correctly joined by a semicolon or a comma and coordinating conjunction
+	A complex sentence contains one IC and one or more DCs. The DC begins with a subordinating conjunction
+
+
+Types:
+	Simple
+		One independent clause
+	Compound
+		Two independent clauses
+	Complex
+		One independent clause and one dependent clause
+	Compound/Complex
+		at least two independent clauses and at least one dependent clause
+		
+		
+Purpose:
+	Declarative		make statements
+	Interrogative	ask questions
+	Imperative		give commands, make demands or requests
+	Exclamatory		convey strong emotions and end in exclamation points
+	
+Clauses:
+	Independent
+	Dependent
+	
+	Joining Clauses:
+		Coordinating independent clauses
+			Method 1A: semicolon
+				IC ; IC
+			Method 1B: semicolon with conjunctive adverb and comma
+				IC ; {moreover, however, consequently, indeed, nevertheless, therefore} IC
+			Method 2: comma and coordinating conjunction
+				IC , {for, and, nor, but, or, yet, so} IC
+		Subordinating Dependent Clauses
+			Method 1: IC first
+				IC DC
+			Method 2: DC first
+				DC , IC
+		Turning an IC into a DC
+			Use a Subordinating Conjunction
+				after, although, as (as if), because, before, even though, if,
+				in order that, rather than, since, so that, than, that, though,
+				unless, until, when, whenever, whereas, whether, while
+	
+Subject-verb agreement
+	Number
+	Person
+	
+	3rd Singular
+		usually add an s to the end of a verb
+		sits, is sitting, was sitting, has sat, has been sitting, does not sit, doesn't sit
+	3rd Plural
+		sit, are sitting, were sitting, have sat, have been sitting, do not sit, don't sit
+		
+	Compound subjects
+		joined by 'and'
+			treated as plural
+		joined by 'or' or '<n> either <n> or'
+			agrees with the subject nearer to the verb
+	
+	Relative clauses
+		begin with relative pronouns
+			who, that, or which
+		contain a verb separate from that of the IC
+		The verb agrees in person and number to the word to which the relative pronoun refers
+		'Most instructors appreciate students who ask good questions.'
+	
+	Verb preceding the subject
+		In questions, subject follows verb but subject still determines the person and number of the verb
+		'Where in the forest are the foxes'
+		Same case in sentences that begin in a construction, 'here is' or 'there are'
+		
+	Indefinite Pronoun Subjects
+		some indefinite pronouns are always singular and some are always plural
+			always singular require 3rd person singular verb:
+				nobody knows, has anyone asked, everyone says, each gets, one uses, another has arrived
+			always plural requires a plural verb form:
+				several work, many have done, few believe, both were
+				
+				
+Verb tense
+	simple present, past, future
+		place actions in time
+	perfect tenses (have, has, had)
+		express events/actions completed
+	progressive tenses(-ing verbs and helpers such as is, was, were)
+		events/actions that are ongoing
+	
+	Intentional shifting to convey order of occurrence
+		generalities and truisms are always expressed in simple present tense
+		
+		
+Other Phrases
+	Verbal
+		Gerunds (-ing forms that function as nouns)
+			Gerund phrases are nouns
+		Participles (present or past participle verb forms that function as adjectives)
+			Participial phrases are adjectives
+		Infinitives (the root form of a verb preceded by 'to')
+			Infinitive phrase functions as a noun, adjective, or adverb
+		Appositive phrases are nouns
+			an appositive is a noun phrase that renames or restates the preceding noun or pronoun
+			usually contained parenthetically by commas unless necessary, such as a single word
+		Absolute Phrases
+			modify the entire sentence
+			typically consists of a <noun/pronoun> and a <participle>
+			
+			
+Pronoun Reference
+	Must match person, number, and case of words they replace
+		1st person: I, me, we, us
+		2nd person: you
+		3rd person: he, him, she, her, it, they, them
+	Must also agree in person and number with Antecedent
+	Gender neutral pronouns
+	Unambiguous reference
+		referent must appear prior to the pronoun that refers to it
+			may appear in a nearby sentence if reference is clear enough
+
+			
+Relative Pronouns
+	1. Relative pronouns introduce subordinate clauses functioning as adjectives
+		The man 'who was running' escaped more easily.
+			'who' points back to The man
+	2.  Use commas to set off nonrestrictive elements but not restrictive elements
+		restrictive element: defines or limits the meaning of the word it modifies
+			"... pants that are blue"
+		nonrestrictive: "... pants, which are blue"
+	3. choice of [that, which, who, whom] is dependent upon the way in which the pronoun is used
+	   as well as the noun or pronoun to which it refers.
+		generally: 'that' for restrictive clauses
+				   'which' for nonrestrictive clauses
+		do not use 'which' to refer to persons, instead use 'who'
+		but 'that' can refer to a group
+	4. 'who', 'which', and 'that' take verbs that agree with their antecedents
+	
+	
+Avoiding Modifier Problems
+	1. Simple adjectives precede the target
+	2. Adjective phrases and clauses follow the target
+	3. Adverbs move around
+		'squinting' adverbs seem to be modifying multiple things at once
+	4. Limiters precede
+		only, almost, just, nearly, hardly
+	Dangling modifiers
