@@ -1,0 +1,13 @@
+verbs = ['amble', 'barrel', 'bounce', 'bound', 'bustle', 'canter', 'caper', 'chase', 'clamber', 'clomp', 'clump',
+         'crawl', 'curvet', 'dart', 'dash', 'dogtrot', 'drift', 'flash', 'flit', 'flitter', 'flow', 'flutter', 'fly',
+         'frogmarch', 'gallop', 'glide', 'goose-stp', 'hobble', 'hop', 'hurdle', 'hurry', 'hurtle', 'inch', 'jog',
+         'jounce', 'jump', 'leap', 'limp', 'lope', 'lumber', 'march', 'maunder', 'mince', 'mosey', 'pace', 'pad',
+         'parade', 'patter', 'plod', 'prance', 'prowl', 'race', 'ramble', 'reel', 'run', 'sashay', 'saunter', 'schlep',
+         'scramble', 'scuffle', 'scurry', 'scuttle', 'shamble', 'shuffle', 'skelter', 'skip', 'skitter', 'slide',
+         'slip', 'slither', 'slog', 'slosh', 'spring', 'sprint', 'stagger', 'stamp', 'step', 'stomp', 'straddle',
+         'stride', 'stroll', 'strt', 'stumble', 'stump', 'swagger', 'tiptoe', 'toddle', 'totter', 'tramp', 'trample',
+         'tread', 'trip', 'tromp', 'trot', 'trudge', 'waddle', 'wade', 'walk', 'whisk', 'zip', 'zoom', 'bite', 'chew',
+         'chomp', 'chow down', 'consume', 'cram', 'devour', 'digest', 'dig in', 'dine', 'eat', 'eat up', 'engorge',
+         'feast', 'feast on', 'feed', 'finish off', 'gobble', 'gorge', 'graze', 'gulp', 'ingest', 'inhale', 'lap up',
+         'masticate', 'munch', 'nibble', 'nosh', 'partake', 'peck at', 'pick at', 'pig out', 'polish off', 'putaway',
+         'relish', 'savor', 'scarf', 'snack', 'sup', 'swallow', 'take in', 'taste', 'toss down', 'wolf down']
