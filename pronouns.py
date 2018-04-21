@@ -44,6 +44,7 @@ specific = {'one', 'someone', 'somebody', 'something'}
 total = {'each', 'everyone', 'everybody', 'everything'}
 exclusive = {'no one', 'nobody', 'nothing'}
 
+
 def pronoun(type='', person='', objectivity='', gender='', number='', proximity='', quantity=0, specificity=''):
     categories = list()
     if type == 'personal':
@@ -91,9 +92,9 @@ def pronoun(type='', person='', objectivity='', gender='', number='', proximity=
 
     if quantity == 2:
         categories.append({'both'})
-    if quantity in range(3,4):
+    if quantity in range(3, 4):
         categories.append({'few'})
-    if quantity in range(5,10):
+    if quantity in range(5, 10):
         categories.append({'several'})
     if quantity > 10:
         categories.append({'many'})
@@ -111,4 +112,4 @@ def pronoun(type='', person='', objectivity='', gender='', number='', proximity=
     return pronoun
 
 
-print(pronoun(type='personal', gender='male', person='third'))
+print(pronoun(type='personal', gender='female', person='third'))

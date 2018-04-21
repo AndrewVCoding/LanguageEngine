@@ -30,7 +30,15 @@ def imagine():
 
 
 # Generate a clause
+def genClause(type='independent', subject='', tense='', person='', number=''):
+    if type == 'independent':
+        subject = genSubject()
+        clause = [subject, genPredicate(subject)]
 
+    if type == 'dependent':
+        j = 1
+
+    return clause
 
 
 # Generate a subject
@@ -41,6 +49,11 @@ def genSubject():
     subject[3] = random.choice(['', random.choice(adjectives)])
 
     return subject
+
+
+# Generate a direct object
+def genDirectObject():
+    directObject = []
 
 
 # Generate a predicate
